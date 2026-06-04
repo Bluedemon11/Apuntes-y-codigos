@@ -4,17 +4,6 @@
 
 ---
 
-## 📺 Videos recomendados — Ver antes de empezar
-
-| Tema                         | Canal        | Link                                                          |
-| ---------------------------- | ------------ | ------------------------------------------------------------- |
-| ¿Qué es Git y GitHub?        | freeCodeCamp | [Ver en YouTube](https://www.youtube.com/watch?v=mBYSUUnMt9M) |
-| Instalar Git y Git Bash      | Roelcode     | [Ver en YouTube](https://www.youtube.com/watch?v=p9S1wSChtSo) |
-| Cómo usar GitHub paso a paso | MoureDev     | [Ver en YouTube](https://www.youtube.com/watch?v=3GymExBkKjE) |
-| Comandos Git esenciales      | Fazt         | [Ver en YouTube](https://www.youtube.com/watch?v=HiXLkL42tMU) |
-
----
-
 ## 1️⃣ Instalar Git Bash
 
 Git Bash es la terminal que usarás para ejecutar todos los comandos de Git en Windows.
