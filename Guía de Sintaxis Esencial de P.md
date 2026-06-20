@@ -108,3 +108,10 @@ with ConnectHandler(**cisco_router) as net_connect:
         "ip address 10.0.0.1 255.255.255.252"
     ]
     net_connect.send_config_set(comandos_config)
+
+
+### Codigo para simular entrar en la terminal
+import subprocess
+
+# Esto equivale a escribir el comando e irónicamente presionar Enter en Ubuntu
+subprocess.run(["sudo", "systemctl", "stop", "servidor_legitimo.service"])
